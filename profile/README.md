@@ -16,6 +16,8 @@ Led by **Principal Investigator Prof. Michael Yingbull**, a computer science pro
 This platform aims to be a transparent, customizable tool for healthcare providers in clinical settings.
 Work began September, 2024. Feel free to follow our progress and efforts here! 
 
+Be sure to check out [Dr. Hendy's FreeScribe Repository](https://github.com/1984Doc/AI-Scribe), which is an open-source medical scribing platform written in python, that was the motivation for futher work. This tool is useable in its current development state; check out that link to find out more. 
+
 Learn more about the grant and its impact:
 [Conestoga CNERG+ Funding Announcement](https://blogs1.conestogac.on.ca/news/2023/10/cnerg_and_cnerg_funding_awarde.php)
 
