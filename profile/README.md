@@ -3,7 +3,7 @@
 
 ---
 
-**ClinicianFOCUS** is part of the **"Unburdening Primary Healthcare: An Open-Source AI Clinician Assistance Platform"** Applied Research Project. This initiative is funded by the **Conestoga College New and Emerging Researcher Grant+ (CNERG+)** program and supported by project partner **Dr. Braedon Hendy**.
+**ClinicianFOCUS** is part of the **"Unburdening Primary Healthcare: An Open-Source AI Clinician Assistance Platform"** Applied Research Project. This initiative is funded by the **Conestoga College New and Emerging Researcher Grant+ (CNERG+)** program as well as project partner **Dr. Braedon Hendy**.
 
 Led by **Principal Investigator Prof. Michael Yingbull**, a computer science professor at Conestoga College in Waterloo, Ontario, along with research partner **Dr. Braedon Hendy**, this project is focused on reducing burdens faced by primary care practitioners in clinican settings through an open-source AI enabled-platform that enhances efficiency and streamlines clinical tasks and care. 
 
