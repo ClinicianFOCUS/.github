@@ -2,6 +2,7 @@
 **A Framework for Optimizing (Healthcare) Clinician User-Experience and Success**
 ---
 [Join our Discord Community!](https://discord.gg/dxjuYcHXnv)  
+[View our Project Planning Board for this project!](https://github.com/orgs/ClinicianFOCUS/projects/2)
 *Connect with us, our team, and others interested in this work!*
 
 **ClinicianFOCUS** is part of the **"Unburdening Primary Healthcare: An Open-Source AI Clinician Assistance Platform"** Applied Research Project. This initiative is funded by the **Conestoga College New and Emerging Researcher Grant+ (CNERG+)** program as well as project partner **Dr. Braedon Hendy**.
